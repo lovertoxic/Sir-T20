@@ -137,12 +137,12 @@ ______________________________
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
+https://whatsapp.com/channel/0029Vb6H6jF9hXEzZFlD6F3d
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 join the group https://chat.whatsapp.com/BXNPh0ZN6zoGNRJDghhIac?mode=r_t
+🪄 join the group https://chat.whatsapp.com/DJMA7QOT4V8FuRD6MpjPpt?mode=ac_t?
 
-*🥀 Powered by sir bravin 🥀*
+*🥀 Powered by sir t20 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
@@ -160,7 +160,7 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363366284524544@newsletter',
-                                    newsletterName: 'Sir bravin 💖',
+                                    newsletterName: 'Sir t20 classic 💖',
                                     serverMessageId: 143
                                 }
                             }
