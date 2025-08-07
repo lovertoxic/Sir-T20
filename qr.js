@@ -15,19 +15,18 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with sir bravin Bot*
+*💪 Empowering Your Experience with sir t20classic Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
 🔗https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
+https://whatsapp.com/channel/0029Vb6H6jF9hXEzZFlD6F3d
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 join group https://chat.whatsapp.com/BXNPh0ZN6zoGNRJDghhIac?mode=r_t
-
-*🥀 Powered by sir bravin 🥀*
+🪄 join group https://chat.whatsapp.com/DJMA7QOT4V8FuRD6MpjPpt?mode=ac_t
+*🥀 Powered by sir t20classic 🥀*
 *Together, we build the future of automation! 🚀*
 `
 
