@@ -97,7 +97,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'sir bravin~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'sir T20 CLASSIC ~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -114,7 +114,7 @@ router.get('/', async (req, res) => {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363366284524544@newsletter',
-                                    newsletterName: 'sir bravin',
+                                    newsletterName: 'sir T20-CLASSIC,
                                     serverMessageId: 143
                                 }
                             }
