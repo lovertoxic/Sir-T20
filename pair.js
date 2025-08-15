@@ -97,7 +97,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'sir T20 CLASSIC ~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'sir bravin~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -114,7 +114,7 @@ router.get('/', async (req, res) => {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363420222821450@newsletter',
-                                    newsletterName: 'sir T20-CLASSIC,
+                                    newsletterName: 'sir t20',
                                     serverMessageId: 143
                                 }
                             }
@@ -136,13 +136,12 @@ ______________________________
 🔗 https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
 
 *💭 Need help? Join our support groups:*
-📢 💬
+📢🫁
 https://whatsapp.com/channel/0029Vb6H6jF9hXEzZFlD6F3d
-
 *📚 Learn & Explore More with Tutorials:*
-🪄 join the group https://chat.whatsapp.com/DJMA7QOT4V8FuRD6MpjPpt?mode=ac_t?
+🪄 join the group https://chat.whatsapp.com/DJMA7QOT4V8FuRD6MpjPpt?mode=ac_t
 
-*🥀 Powered by sir t20 🥀*
+*🥀 Powered by sir bravin 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
@@ -160,7 +159,7 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363420222821450@newsletter',
-                                    newsletterName: 'Sir t20 classic 💖',
+                                    newsletterName: 'Sir t20 💖',
                                     serverMessageId: 143
                                 }
                             }
