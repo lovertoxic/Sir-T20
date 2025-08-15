@@ -113,7 +113,7 @@ router.get('/', async (req, res) => {
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363366284524544@newsletter',
+                                    newsletterJid: '120363420222821450@newsletter',
                                     newsletterName: 'sir T20-CLASSIC,
                                     serverMessageId: 143
                                 }
@@ -159,7 +159,7 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363366284524544@newsletter',
+                                    newsletterJid: '120363420222821450@newsletter',
                                     newsletterName: 'Sir t20 classic 💖',
                                     serverMessageId: 143
                                 }
